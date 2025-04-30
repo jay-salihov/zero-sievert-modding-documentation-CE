@@ -1,6 +1,6 @@
-site_name: Zero Sievert Modding Documentation
-site_url: https://jay-salihov.github.io/zero-sievert-modding-documentation-CE-poc/
-repo_url: https://github.com/jay-salihov/zero-sievert-modding-documentation-CE-poc
+site_name: Zero Sievert Modding Documentation CE
+site_url: https://jay-salihov.github.io/zero-sievert-modding-documentation-CE/
+repo_url: https://github.com/jay-salihov/zero-sievert-modding-documentation-CE/
 
 theme:
   name: material
