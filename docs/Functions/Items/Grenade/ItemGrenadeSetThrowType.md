@@ -1,0 +1,3 @@
+# ItemGrenadeSetThrowType
+
+Documentation coming soon.

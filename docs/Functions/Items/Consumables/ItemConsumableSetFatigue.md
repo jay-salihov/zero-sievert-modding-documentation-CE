@@ -1,0 +1,3 @@
+# ItemConsumableSetFatigue
+
+Documentation coming soon.

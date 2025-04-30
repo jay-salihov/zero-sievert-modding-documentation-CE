@@ -1,0 +1,3 @@
+# ItemConsumableSetAnimation
+
+Documentation coming soon.

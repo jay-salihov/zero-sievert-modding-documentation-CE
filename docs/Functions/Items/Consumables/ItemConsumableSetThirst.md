@@ -1,0 +1,3 @@
+# ItemConsumableSetThirst
+
+Documentation coming soon.

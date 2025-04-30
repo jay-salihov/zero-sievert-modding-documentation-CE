@@ -1,0 +1,54 @@
+site_name: Zero Sievert Modding Documentation
+site_url: https://jay-salihov.github.io/zero-sievert-modding-documentation-CE-poc/
+repo_url: https://github.com/jay-salihov/zero-sievert-modding-documentation-CE-poc
+
+theme:
+  name: material
+  features:
+    #- navigation.tabs
+    - navigation.sections
+    #- navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  
+  language: en
+  
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: purple
+      accent: purple 
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
+
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        'index.md': 'Start.md'
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
